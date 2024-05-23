@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Better CYSH Library
 // @namespace    http://tampermonkey.net/
-// @version      2024-05-23
-// @description  try to take over the world!
-// @author       You
+// @version      v1.0.0
+// @description  嘉中的圖書館網頁太醜，我來美化他
+// @author       Know Scratcher
 // @match        https://library.cysh.cy.edu.tw/webopac/*
 // @icon         https://library.cysh.cy.edu.tw/webopac/css/favicon.ico
 // @grant        unsafeWindow
